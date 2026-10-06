@@ -1,0 +1,1 @@
+Instagram skills copied from https://github.com/sergebulaev/instagram-skills (MIT, v1.0.27). See INSTAGRAM-SKILLS-LICENSE.
