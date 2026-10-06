@@ -1,0 +1,11 @@
+ciudad,rubro,nombre,direccion_o_zona,fuente,estado_verificacion,oportunidad_a_revisar,servicio_a_ofrecer,contactado,notas
+Madrid,Dental,Clinica Sada,Barrio de Salamanca,whatclinic.com,SIN VERIFICAR,Revisar web, reservas online y RGPD,Web + citas automaticas,no,
+Madrid,Dental,Clinica Q-Dental,Bravo Murillo 6,whatclinic.com,SIN VERIFICAR,Revisar web y sistema de citas,Automatizacion citas/WhatsApp,no,
+Madrid,Dental,Clinica Dental Ercilla,Madrid,cbinsights.com,SIN VERIFICAR,Revisar web y captacion de pacientes,Web + captacion leads,no,
+Madrid,Dental,Clinica Dental Bonadent,Madrid,a-leads.co,SIN VERIFICAR,Clinica propia (30+ anos); revisar web,Web + automatizacion,no,
+Chicago,Dental,Pilsen Dental Group,1859 S Blue Island Ave,newpatientsinc.com,SIN VERIFICAR,2 dentistas; revisar reservas online,Citas automaticas,no,
+Chicago,Dental,Pilsen Smiles,971 W 18th St,lantern.llc,SIN VERIFICAR,631 resenas; revisar web propia,Web + recordatorios automaticos,no,
+Chicago,Dental,Bright Dental of Logan Square,3300 W Armitage Ave,webmd.com,SIN VERIFICAR,1 sede; revisar web,Web + citas,no,
+Chicago,Paisajismo,Midwest Landscaping & Outdoor Design,Chicago North Shore,lovable.app,SIN VERIFICAR,Sitio en plataforma generica; pedir presupuestos online,Web propia + formulario de presupuesto,no,
+Chicago,Paisajismo,Proworks Landscaping,8843 S Hermitage Ave,yourgreenpal.com,SIN VERIFICAR,Solo ficha en directorio; sin web propia?,Web propia,no,
+Chicago,Paisajismo,Botanical Concepts Chicago,Chicago,homeguide.com,SIN VERIFICAR,Fundada 1998; revisar web,Web + captacion de leads,no,
